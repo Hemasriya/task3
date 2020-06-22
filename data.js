@@ -30,7 +30,7 @@
                     "result":"96%"
         },
         {
-                    "degree":"S.S.C",
+                    "degree":"CBSE",
                     "institute":"Vignan Global Gen School",
                     "result":"10/10"
         }
